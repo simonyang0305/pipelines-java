@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/simonyang0976/pipeline_java/_apis/build/status/simonyang0305.pipelines-java?branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)](https://dev.azure.com/simonyang0976/pipeline_java/_build/latest?definitionId=1&branchName=dependabot%2Fmaven%2Fjunit-junit-4.13.1)
 
 # Contributing
 
